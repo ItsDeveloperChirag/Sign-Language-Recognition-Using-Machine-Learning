@@ -38,6 +38,3 @@
 - Use good lighting and varied hand positions for robust models.
 - Start with 5-10 labels and 100+ samples per label to get decent performance.
 - For dynamic gestures (moving hands), you'll need to collect sequences and train an LSTM or temporal model (this project is for static signs/alphabet).
-
-## License
-MIT
